@@ -1,10 +1,10 @@
 <h2>Hi, I’m Swayam! 👋 </h2>
-💻 MERN Developer 
-🌐 Building functional web apps
-🎨 Honing my UI/UX design skills  
-⚽ Absolutely love football and a die-hard Culer by heart 🔴🔵 (Visca Barça!)  
-😍 My affection for coding is growing day by day—can't stop, won’t stop 💻  
-📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a>
+<p>💻 MERN Developer</p>
+<p>🌐 Building functional web apps</p>
+<p>🎨 Honing my UI/UX design skills</p>
+<p>⚽ Absolutely love football and a die-hard Culer by heart 🔴🔵 (Visca Barça!)</p>
+<p>😍 My affection for coding is growing day by day—can't stop, won’t stop 💻</p>
+<p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
 <h2>🔧 My Toolbelt:</h2>
 
