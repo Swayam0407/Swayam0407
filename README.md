@@ -1,18 +1,21 @@
-### Hi, I’m Swayam! 👋  
-💻 **MERN Developer** | 🌐 Building functional web apps | 🎨 Honing my **UI/UX** design skills  
-⚽ Absolutely love **football** and a die-hard **Culer by heart** 🔴🔵 (Visca Barça!)  
-😍 My affection for coding is growing **day by day**—can't stop, won’t stop 💻 
+🖐 Hi, I’m Swayam! 👋  
+💻 MERN Developer | 🌐 Building functional web apps | 🎨 Honing my UI/UX design skills  
+⚽ Absolutely love football and a die-hard Culer by heart 🔴🔵 (Visca Barça!)  
+😍 My affection for coding is growing day by day—can't stop, won’t stop 💻  
+📫 Reach me through Email.
 
+🔧 My Toolbelt:
 
-### 🔧 My Toolbelt:
-
-- [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoWidth=20&style=flat-square)](https://react.dev/)
-- [![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20&style=flat-square)](https://nodejs.org/)
-- [![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&logoWidth=20&style=flat-square)](https://expressjs.com/)
-- [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&logoWidth=20&style=flat-square)](https://www.mongodb.com/)
-
-
-
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
