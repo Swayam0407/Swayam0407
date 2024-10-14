@@ -1,4 +1,7 @@
-https://www.fcbarcelona.com/photo-resources/2024/08/31/bdd7af8a-607a-4377-a948-83d80bdbb792/_GP15368.jpg?width=2400&height=1500
+<p align="center">
+  <img src="https://www.fcbarcelona.com/photo-resources/2024/08/31/bdd7af8a-607a-4377-a948-83d80bdbb792/_GP15368.jpg?width=2400&height=1500" alt="FC Barcelona" width="600"/>
+</p>
+
 
 <h2>Hi, I’m Swayam! 👋 </h2>
 <p>💻 MERN Developer</p>
