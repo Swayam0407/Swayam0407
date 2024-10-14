@@ -1,10 +1,10 @@
-🖐 Hi, I’m Swayam! 👋  
+<h2>Hi, I’m Swayam! 👋 </h2>
 💻 MERN Developer | 🌐 Building functional web apps | 🎨 Honing my UI/UX design skills  
 ⚽ Absolutely love football and a die-hard Culer by heart 🔴🔵 (Visca Barça!)  
 😍 My affection for coding is growing day by day—can't stop, won’t stop 💻  
 📫 Reach me through Email.
 
-<h2 align="center">🔧 My Toolbelt:</h2>
+<h2>🔧 My Toolbelt:</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
