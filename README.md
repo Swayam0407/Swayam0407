@@ -1,4 +1,4 @@
-<h2>Hi, I’m Swayam! 👋 </h2>
+<h1>Hi, I’m Swayam! 👋 </h1>
 <p>💻 MERN Developer</p>
 <p>🌐 Building functional web apps</p>
 <p>🎨 Honing my UI/UX design skills</p>
@@ -6,7 +6,7 @@
 <p>😍 My affection for coding is growing day by day—can't stop, won’t stop 💻</p>
 <p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
-<h2>🔧 My Toolbelt:</h2>
+<h1>🔧 My Toolbelt:</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
