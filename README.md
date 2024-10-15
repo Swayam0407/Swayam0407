@@ -6,7 +6,7 @@
 <p>💻 MERN Developer</p>
 <p>🌐 Building functional web apps</p>
 <p>🎨 Honing my UI/UX design skills</p>
-<p>⚽ Absolutely love football and a die-hard Culer by heart 🔴🔵 (Visca Barça!)</p>
+<p>⚽ Absolutely love football and a die-hard Culer 🔴🔵 (Visca Barça!)</p>
 <p>😍 My affection for coding is growing day by day—can't stop, won’t stop 💻</p>
 <p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
