@@ -11,7 +11,10 @@
 <p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
 <h2>🔧 My Toolbelt:</h2>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,vscode,figma,github)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,vscode,figma,github" alt="My Skills" />
+</p>
+
 
 
 <p align="center">
