@@ -15,14 +15,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postman,vscode,figma,github" alt="My Skills" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam0407&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swayam0407&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam0407&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Swayam0407&theme=radical" alt="GitHub Streak" />
+</div>
 
 
