@@ -27,5 +27,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayam0407&show_icons=true&theme=radical" alt="Swayam's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam0407&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Swayam0407.profile)
+
+<p align="center">
+  <img src="https://github-contributions-chart.vercel.app/api?username=Swayam0407&theme=react" alt="GitHub Contributions"/>
+</p>
+
