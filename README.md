@@ -16,7 +16,6 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam0407&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; object-fit: contain;" />
-  <img src="https://streak-stats.demolab.com?user=Swayam0407&theme=radical" alt="GitHub Streak" style="height: 200px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam0407&layout=compact&theme=radical" alt="Top Languages" style="width: 400px; height: 200px; object-fit: contain;" />
+  <img src="https://streak-stats.demolab.com?user=Swayam0407&theme=radical" alt="GitHub Streak" style="width: 400px; height: 200px; object-fit: contain;" />
 </div>
-
