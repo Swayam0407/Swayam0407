@@ -10,27 +10,26 @@
 <p>😍 My affection for coding is growing day by day—can't stop, won’t stop 💻</p>
 <p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- Profile Views Counter -->
-  <span style="display: inline-block;">
-    <img src="https://komarev.com/ghpvc/?username=Swayam0407&style=flat-square&color=blue" alt="Profile Views Counter" />
-  </span>
+<p align="center">
   <!-- GitHub Follow Badge -->
-  <a href="https://github.com/Swayam0407?tab=followers" style="display: inline-block;">
-    <img src="https://img.shields.io/github/followers/Swayam0407?label=Follow%20on%20GitHub&style=social" alt="GitHub Follow Badge"/>
-  </a>
-
-    <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/swayamaggarwal/" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://github.com/Swayam0407?tab=followers">
+    <img src="https://img.shields.io/github/followers/Swayam0407?label=Follow%20on%20GitHub&style=social" alt="GitHub Follow Badge" style="display: inline-block;"/>
   </a>
   
   <!-- Twitter Badge -->
-  <a href="https://twitter.com/https://x.com/SwayamAgga1408" style="display: inline-block;">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow%20on%20Twitter&style=social" alt="Twitter Follow Badge"/>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow%20on%20Twitter&style=social" alt="Twitter Follow Badge" style="display: inline-block;"/>
   </a>
   
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/your_linkedin_handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge" style="display: inline-block;"/>
+  </a>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Swayam0407&style=flat-square&color=blue" alt="Profile Views Counter" style="display: inline-block;"/>
 </p>
+
 
 
 <h2>🔧 My Toolbelt:</h2>
