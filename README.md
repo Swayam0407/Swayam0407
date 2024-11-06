@@ -10,19 +10,19 @@
 <p>😍 My affection for coding is growing day by day—can't stop, won’t stop 💻</p>
 <p>📫 Reach me through <a href="mailto:swayam04smile@gmail.com">Email.</a></p>
 
-<p align="center">
+<p>
   <!-- GitHub Follow Badge -->
   <a href="https://github.com/Swayam0407?tab=followers">
     <img src="https://img.shields.io/github/followers/Swayam0407?label=Follow%20on%20GitHub&style=social" alt="GitHub Follow Badge" style="display: inline-block;"/>
   </a>
   
   <!-- Twitter Badge -->
-  <a href="https://twitter.com/your_twitter_handle">
+  <a href="https://twitter.com/https://x.com/SwayamAgga1408">
     <img src="https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow%20on%20Twitter&style=social" alt="Twitter Follow Badge" style="display: inline-block;"/>
   </a>
   
   <!-- LinkedIn Badge -->
-  <a href="https://linkedin.com/in/your_linkedin_handle">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/swayamaggarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge" style="display: inline-block;"/>
   </a>
   
