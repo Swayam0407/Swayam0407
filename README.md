@@ -1,4 +1,4 @@
-<p align="cente">
+<p align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/163/715/598/the-big-bang-theory-beards-sheldon-leonard-wallpaper-preview.jpg" alt="The Big Bang Theory" width="600"/>
 </p>
 
